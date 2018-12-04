@@ -5,12 +5,12 @@ Karakteristieke punten klikken in dwarsprofielen.
 
 # Broncode
 
-De broncode van qDAMEdit1.0.3 is te vinden in de folder [Broncode](https://github.com/kkpdata/Datatools/tree/master/Scripts-rijkswaterstaat-iris/qDAMEdit-Kliktool/Broncode)
+De broncode van qDAMEdit1.0.3 is te vinden in de folder [Broncode](https://github.com/kkpdata/qDAMEdit/tree/master/Broncode)
 
 
 # Installer
 
-Een installer kan worden gedownload bij de Release [qDAMEdit1.1](https://github.com/kkpdata/Datatools/releases/tag/qDAMEdit)
+Een installer kan worden gedownload bij de Release [qDAMEdit1.1](https://github.com/kkpdata/qDAMEdit/releases/tag/qDAMEdit)
 
 
 # Gebruik
